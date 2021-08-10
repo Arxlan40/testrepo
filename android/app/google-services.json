@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "519003781398",
+    "project_id": "connect-hockey",
+    "storage_bucket": "connect-hockey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519003781398:android:108e6bdcb8185dcbc1b837",
+        "android_client_info": {
+          "package_name": "connect.connect_hockey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519003781398-icv4htel737vue8p0j5h7hc78ukkpev0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "connect.connect_hockey",
+            "certificate_hash": "4407e00276cbf9f4c20cfe8b8a43c071441dc50a"
+          }
+        },
+        {
+          "client_id": "519003781398-br6m8ktoj4jclvnamm9f22ijfrno6emq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsXrr3HcG6BEQCnUh0Kej9zvu-cxAgJGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519003781398-br6m8ktoj4jclvnamm9f22ijfrno6emq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "519003781398-d3hn7n2pd3p6i8gicaplfnvel5niscdr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.connect.hockey.connecthockey"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
